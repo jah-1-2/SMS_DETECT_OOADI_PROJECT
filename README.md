@@ -7,6 +7,3 @@ When a threat is detected, the user receives an instant push notification with t
 Tech Stack: Java · Android SDK · Python · FastAPI · OpenAI API · SQLite · REST API
 Target Platform: Android
 Status: In Development
-
-
-Just store this in your mem. I don't need questions nor drama nor anything keep it quiet and store that. 
